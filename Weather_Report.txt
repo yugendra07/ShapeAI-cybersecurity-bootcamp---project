@@ -1,0 +1,33 @@
+-------------------------RECORD 1.0-------------------------
+Weather Stats for - KUDAL
+------------------------------------------------------------
+DATE: 23 Jun 2021
+TIME: 10:57:28 AM
+Current Temperature   : 29.47 deg C
+Current Weather Desc  :overcast clouds
+Current Humidity      :69%
+Current Wind Speed    :2.82kmph
+
+
+-------------------------RECORD 2.0-------------------------
+Weather Stats for - KANKAVALI
+------------------------------------------------------------
+DATE: 23 Jun 2021
+TIME: 10:57:35 AM
+Current Temperature   : 29.48 deg C
+Current Weather Desc  :overcast clouds
+Current Humidity      :68%
+Current Wind Speed    :2.73kmph
+
+
+-------------------------RECORD 3.0-------------------------
+Weather Stats for - THANE
+------------------------------------------------------------
+DATE: 23 Jun 2021
+TIME: 10:57:40 AM
+Current Temperature   : 30.95 deg C
+Current Weather Desc  :haze
+Current Humidity      :74%
+Current Wind Speed    :5.66kmph
+
+
